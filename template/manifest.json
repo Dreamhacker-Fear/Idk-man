@@ -1,1 +1,1 @@
-{"name":"Auto Quote","description":"Automatically formats sent messages as Discord quote blocks.","authors":[{"name":"luca.gng","id":"1367545898099408986"}],"main":"index.js","vendetta":{"icon":"ic_chat"},"hash":"6cb6594aa032b83a1f24c2bb3d63e8aeb8e1652e0361e7d7a0e415850cc9c406"}
+{"name":"Auto Quote","description":"Automatically formats sent messages as Discord quote blocks.","authors":[{"name":"luca.gng","id":"1367545898099408986"}],"main":"index.js","vendetta":{"icon":"ic_chat"},"hash":"52cd384e366152ff1902b3862278015157bd00f60fd82eb0e7d88451aee0c044"}
