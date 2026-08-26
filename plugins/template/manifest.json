@@ -7,8 +7,5 @@
             "id": "1367545898099408986"
         }
     ],
-    "main": "src/index.ts",
-    "vendetta": {
-        "icon": "ic_chat"
-    }
+    "main": "src/index.ts"
 }
